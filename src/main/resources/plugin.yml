@@ -1,0 +1,12 @@
+name: ExerciseEndMc
+version: '1.0-SNAPSHOT'
+main: fr.toxio.endmc.EndMcPlugin
+commands:
+  zone:
+    description: Gerez les zone
+    usage: /zone <subcommand>
+    permission: endmc.zone
+permissions:
+  endmc.zone:
+    default: op
+

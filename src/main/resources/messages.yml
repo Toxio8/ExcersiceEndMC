@@ -1,0 +1,7 @@
+zone:
+  created: "&aZone '%name%' créée."
+  removed: "&cZone '%name%' supprimée."
+  exists: "&eUne zone avec ce nom existe déjà."
+  notfound: "&cZone '%name%' introuvable."
+  enter: "&aTu es entré dans la zone %zone%."
+  exit: "&cTu as quitté la zone %zone%."
